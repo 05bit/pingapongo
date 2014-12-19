@@ -1,0 +1,37 @@
+body.main {
+    background-color: #e84e40;
+    color: #ffffff;
+    font-weight: 300;
+}
+    .main .intro {
+        color: #ffffff;
+    }
+    .main .intro {
+        padding-top: 2em;
+        text-align: center;
+    }
+    .main .intro h1 {
+        display: none;
+    }
+    .main .intro img {
+        max-width: 100%;
+    }
+    .main .intro p {
+        font-size: 2.0em;
+    }
+    .main .subscribe {
+        padding-top: 2em;
+    }
+    .main .subscribe p {
+        font-size: 1.5em;
+    }
+    .main .footer {
+        margin-top: 2em;
+    }
+    .main .footer a {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+
+/** Bootstrap polishing */
+.btn-lg { padding-top: 10.5px; }
